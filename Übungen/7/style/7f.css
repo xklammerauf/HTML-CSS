@@ -1,0 +1,37 @@
+p{
+  color: rgb(100, 100, 100);
+  font-size: 12px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Arial;
+}
+
+.text-box{
+  font-family: arial;
+  width: 290px;
+  border-color: rgb(80, 80, 80);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  margin-top: 4px;
+  margin-bottom: 12px;
+}
+
+.info{
+  margin-bottom: 12px;
+}
+
+.button{
+  font-size: 16px;
+  font-family: arial;
+  color: white;
+  background-color: rgb(13, 107, 216);
+  border: none;
+  border-radius: 30px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}

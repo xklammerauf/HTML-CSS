@@ -1,0 +1,42 @@
+p{
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 8px;
+  font-family: arial;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.new{
+  color: orangered;
+  font-size: 12px;
+}
+
+.title{
+  font-size: 20px;
+}
+
+.info{
+  font-size: 36px;
+  margin-top: 0px;
+}
+
+.price{
+  font-weight: normal;
+}
+
+button{
+  background-color: rgb(0, 140, 255);
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 16px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  display: block;
+  margin: auto;
+  margin-top: 8px;
+  cursor: pointer;
+}

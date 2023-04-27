@@ -1,0 +1,37 @@
+p{
+  font-family: verdana;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.title{
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.sub{
+  font-size: 18px;
+  color: grey;
+  margin-top: 8px;
+}
+
+.description{
+  font-size: 18px;
+  margin-top: 24px;
+  margin-bottom: 32px;
+  width: 340px;
+}
+
+.button{
+  font-family: verdana;
+  font-size: 18px;
+  background-color: green;
+  color: white;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

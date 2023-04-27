@@ -1,0 +1,28 @@
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: arial;
+  font-size: 24px;
+}
+
+.name{
+  font-weight: bold;
+}
+
+.username{
+  color: rgb(100, 100, 100);
+}
+
+.tweet{
+  width: 700px;
+  margin-top: 8px;
+  line-height: 32px;
+}
+
+.skills{
+  margin-top: 26px;
+}
+
+.person{
+  color: rgb(29, 155, 240);
+}

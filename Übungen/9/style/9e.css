@@ -1,0 +1,42 @@
+.image{
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  vertical-align: middle;
+  border-radius: 20px;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.text-box{
+  font-size: 18px;
+  font-family: arial;
+  border: none;
+  width: 300px;
+  vertical-align: middle;
+}
+
+.tweet{
+  color: white;
+  font-size: 16px;
+  font-family: arial;
+  font-weight: bold;
+  background-color: rgb(29, 155, 240);
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-bottom: 6px;
+  padding-top: 6px;
+  border: none;
+  border-radius: 17px;
+  vertical-align: middle;
+}
+
+.box{
+  width: fit-content;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.4);
+}
